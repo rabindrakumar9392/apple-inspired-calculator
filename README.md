@@ -18,7 +18,7 @@ A responsive Apple-inspired calculator built using **HTML**, **CSS**, and **Java
 
 ## 📸 Screenshot
 
-![Apple Inspired Calculator](screenshot.png)
+![Apple Inspired Calculator](calculator-screenshot.png)
 
 ## 🌐 Live Demo
 
