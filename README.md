@@ -22,7 +22,7 @@ _Add a screenshot here later._
 
 ## 🌐 Live Demo
 
-Coming Soon
+👉 [Open Apple-Inspired Calculator](https://rabindrakumar9392.github.io/apple-inspired-calculator/)
 
 ## 👨‍💻 Author
 
